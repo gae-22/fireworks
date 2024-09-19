@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+#fireworksButton {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 10;
+}
+
+#fireworksCanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
